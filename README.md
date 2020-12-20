@@ -4,6 +4,6 @@ Link for live Project - https://princedart9.github.io/Magic-note/ <br>
 <br>
 Link for Project location - https://github.com/Princedart9/Magic-note <br>
 <br>
-You are wlecome to contribute for more improvisation
+You are wlecome to contribute for more improvisation in the <b>Magic Note App</b>
 
 
